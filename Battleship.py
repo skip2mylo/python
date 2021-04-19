@@ -96,9 +96,3 @@ while turn > 0:
 
 
   
-
-
-#show the resault (missed, hit)
-#   hit
-#   missed
-#   get all
