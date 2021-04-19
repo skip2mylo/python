@@ -23,24 +23,24 @@ def convert_km_to_miles(km):
     
 def main():
     #get first city
-    print 'Type the first City: '
+    print ('Type the first City: ')
     cityA = raw_input()
     
     #get second city
-    print 'Type the second city: '
+    print ('Type the second city: ')
     cityB = raw_input()
     
     #get units
     units = ''
     while (units != 'km') & (units != 'm'):
-        print 'Type distance units (miles or kilometers): '
+        print ('Type distance units (miles or kilometers): ')
         units = str.lower(raw_input())
         if units in ['clicks', 'km', 'kilometers', 'kilometer']:
             units = 'km'
         elif units in ['m', 'mile', 'miles']:
             units = 'm'
         else:
-            print 'units not recognised, please try again'
+            print ('units not recognised, please try again')
             
     #find the distance in km
     try:
@@ -51,10 +51,10 @@ def main():
             print str(distance),' km'   
         else:
             distance = convert_km_to_miles(distance)
-            print str(distance), ' miles' 
+            print (str(distance), ' miles' )
             
     except:
-        print 'Error raised.  Are the input cities correct?'
+        print('Error raised.  Are the input cities correct?')
         
             
 if __name__ == '__main__':
