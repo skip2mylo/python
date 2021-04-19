@@ -1,9 +1,6 @@
 
 """
-BI20 Python
-Grupp 3
-Alexander Berhane, Yijun Cao, Yvetta Hlinova, Henrik Måwe, David Olmos Verdugo
-2021-04-09 
+by June
 """
 
 import requests
