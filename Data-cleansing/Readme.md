@@ -52,3 +52,5 @@
 	Again, bar graph is the neat and intuitive way to show differences between cities.
 
 ![](https://github.com/skip2mylo/junec-portfolio/blob/2e660decc08f0b61a9ad88aaee8b45788299cf64/images/Books%20published%20over%20years.png)
+![](https://github.com/skip2mylo/junec-portfolio/blob/2e660decc08f0b61a9ad88aaee8b45788299cf64/images/Top%2010%20authors%20that%20wrote%20the%20most%20books.png)
+![](https://github.com/skip2mylo/junec-portfolio/blob/2e660decc08f0b61a9ad88aaee8b45788299cf64/images/Top%2010%20cities%20that%20published%20most%20books.png)
