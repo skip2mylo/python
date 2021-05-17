@@ -1,4 +1,4 @@
-# [Books statistics of British Library:](Data-cleansing/Books_Yijun Cao.py)
+# Books statistics of British Library:
 
 1. Drop all columns that do not relate to our analysis requirement.
 	Columns interested:
