@@ -50,3 +50,5 @@
 	graph type: horizontal bar
 	*There are 1170 distinct cities in the dataset after cleansing. So I decided to make a graph that only shows the Top 10 cities that have the most books published instead.
 	Again, bar graph is the neat and intuitive way to show differences between cities.
+
+![](https://github.com/skip2mylo/junec-portfolio/blob/2e660decc08f0b61a9ad88aaee8b45788299cf64/images/Books%20published%20over%20years.png)
